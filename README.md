@@ -16,8 +16,8 @@ An autonomous SMS receptionist designed to qualify service leads in real-time. T
 * **Automated Hand-off:** Real-time data synchronization with Airtable and instant high-priority email notifications for "Ready-to-Quote" leads.
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_REPO_NAME">
-    <img src="" width="900" alt="AI Lead Gen Workflow" style="border-radius: 10px; border: 1px solid #30363d;">
+  <a href="https://github.com/uelsaigh/n8n_sms_bot">
+    <img src="https://raw.githubusercontent.com/uelsaigh/n8n_sms_bot/main/assets/workflow_overview.png" width="900" alt="AI Lead Gen Workflow" style="border-radius: 10px; border: 1px solid #30363d;">
   </a>
   <br>
   <i>Click the image to view the full technical case study and documentation.</i>
