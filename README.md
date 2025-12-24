@@ -47,17 +47,17 @@ This project demonstrates how I approach **reliability, schema design, and opera
 
 <p align="center">
   <a href="https://github.com/uelsaigh/lead-capture-automation/assets">
-    <img src="assets/intake-form.png" width="600" alt="Lead Capture Form">
+    <img src="https://raw.githubusercontent.com/uelsaigh/lead-capture-automation/main/assets/intake-form.png" width="300" alt="Lead Capture Form">
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/uelsaigh/lead-capture-automation/assets">
-    <img src="assets/zapier-overview.png" width="600" alt="Zapier Workflow">
+    <img src="https://raw.githubusercontent.com/uelsaigh/lead-capture-automation/main/assets/zapier-overview.png" width="500" alt="Zapier Workflow">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/uelsaigh/lead-capture-automation/assets">
-    <img src="assets/sample-spreadsheet.png" width="700" alt="Lead Logging Spreadsheet">
+    <img src="https://raw.githubusercontent.com/uelsaigh/lead-capture-automation/main/assets/sample-spreadsheet.png" width="900" alt="Lead Logging Spreadsheet">
   </a>
 </p>
 
