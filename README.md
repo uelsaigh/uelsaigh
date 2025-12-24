@@ -12,7 +12,9 @@ My work focuses on:
 
 ## 🔥 Featured Projects
 
-### 🤖 AI Lead Qualification Engine
+### 🤖 AI Lead Qualification Engine  
+🔗 **The full project:** https://github.com/uelsaigh/n8n_sms_bot  
+
 **Stack:** `n8n` • `OpenAI GPT-4o` • `PostgreSQL` • `Twilio` • `Airtable`
 
 An autonomous SMS receptionist that qualifies inbound service leads in real time.  
@@ -33,7 +35,9 @@ The system replaces manual intake by using a **verification loop** to ensure dat
 
 ---
 
-### ⚙️ Lead Capture & Logging Automation (Foundational Ops System)
+### ⚙️ Lead Capture & Logging Automation (Foundational Ops System)  
+🔗 **The full project:** https://github.com/uelsaigh/lead-capture-automation  
+
 **Stack:** `Zapier` • `Google Forms` • `Google Sheets`
 
 A production-ready lead intake system designed for marketing agencies to ensure **zero missed inquiries** and **clean, auditable data**.
