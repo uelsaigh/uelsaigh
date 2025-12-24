@@ -46,17 +46,17 @@ This project demonstrates how I approach **reliability, schema design, and opera
 - **Operational Transparency:** Timestamped records and audit-friendly storage.
 
 <p align="center">
-  <a href="https://github.com/uelsaigh/lead-capture-automation/assets">
+  <a href="https://github.com/uelsaigh/lead-capture-automation">
     <img src="https://raw.githubusercontent.com/uelsaigh/lead-capture-automation/main/assets/intake-form.png" width="300" alt="Lead Capture Form">
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/uelsaigh/lead-capture-automation/assets">
+  <a href="https://github.com/uelsaigh/lead-capture-automation">
     <img src="https://raw.githubusercontent.com/uelsaigh/lead-capture-automation/main/assets/zapier-overview.png" width="500" alt="Zapier Workflow">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/uelsaigh/lead-capture-automation/assets">
+  <a href="https://github.com/uelsaigh/lead-capture-automation">
     <img src="https://raw.githubusercontent.com/uelsaigh/lead-capture-automation/main/assets/sample-spreadsheet.png" width="900" alt="Lead Logging Spreadsheet">
   </a>
 </p>
