@@ -66,8 +66,7 @@ This project demonstrates how I approach **reliability, schema design, and opera
 </p>
 
 👉 **Why this project matters:**  
-Before AI systems can be effective, businesses need **clean inputs, reliable workflows, and clear sources of truth**.  
-This project reflects how I design systems from the ground up.
+Before AI systems can be effective, businesses need **clean inputs, reliable workflows, and clear sources of truth**. This project reflects how I design systems from the ground up.
 
 ---
 
